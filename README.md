@@ -4,3 +4,4 @@
 * 5:30: GoogleMaps Typescript docs review
 #### Sunday, June 19th, 2022
 * 1:00: ESRI Maps Research
+* 2:45: React Hooks Research
