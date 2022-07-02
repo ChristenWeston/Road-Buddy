@@ -9,3 +9,4 @@
 
 #### Saturday July 2nd, 2022
 * 12:45: Researching GoogleMaps markers
+* 2:15: Polylines
