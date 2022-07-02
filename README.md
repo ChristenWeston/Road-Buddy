@@ -6,3 +6,6 @@
 * 1:00: ESRI Maps Research
 * 2:45: React Hooks Research
 * 3:45: Planning layout
+
+#### Saturday July 2nd, 2022
+* 12:45: Researching GoogleMaps markers
