@@ -11,3 +11,4 @@
 * 12:45: Researching GoogleMaps markers
 * 2:15: Polylines
 * 3:50: Researching Vegan restaurant APIs
+* 5:10: Researching pupeteer
